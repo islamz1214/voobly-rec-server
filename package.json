@@ -1,14 +1,14 @@
 {
-  "name": "server",
+  "name": "voobly-rec-server",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "description": "README.md",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node index.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Zahidul Islam",
+  "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
