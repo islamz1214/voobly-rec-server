@@ -4,10 +4,10 @@ Simple API to provide filenames.
 
 ## Setup
 
-Create a .env file in the root directory and paste the following:
+Create a .env file in the root directory and paste the following (folder name must be aomrecs):
 
     CORS_ORIGIN=[ex. http://localhost:8080]
-    FILE_PATH=[ex. /home/zahidulislam/Desktop/voobly-rec-scraper/downloads]
+    FILE_PATH=[ex. /home/zahidulislam/Desktop/voobly-rec-scraper/downloads/aomrecs]
 
     
 ## Run
